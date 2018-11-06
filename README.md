@@ -1,4 +1,3 @@
 # hello-world
-Hello/ world!
-
-I used to love only unicorns, but now I love Python, too.
+Hello Sugar Labs
+My name is Olya and I love Python.
